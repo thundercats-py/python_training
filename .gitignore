@@ -1,3 +1,7 @@
+# Lesson Output Files
+sonnet_caps.txt
+word_counts.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
