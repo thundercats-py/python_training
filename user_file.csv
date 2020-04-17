@@ -1,0 +1,4 @@
+name,address,city,state,zip,phone,primary_workstation,username
+Testy T. McTesterson,123 Testing Street,Testerville,OR,98765,(541) 555-1234,192.168.0.5,t.t.mctest
+Tested T. O’Testerton,4567 Experimental Lane,Testingburg,PA,15010,(724) 555-5678,192.168.10.7,t.t.oteste
+Assess A. Assessment,867 Assessment Avenue,Assessor City,IA,50005,(641) 555-5309,192.168.20.52,a.a.assess

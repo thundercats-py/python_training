@@ -1,0 +1,46 @@
+<users>
+  <user>
+    <name>name<username>username</username></name>
+    <address>
+      <street>address</street>
+      <city>city</city>
+      <state>state</state>
+      <zip>zip</zip>
+      <phone>phone</phone>
+    </address>
+    <primary_workstation>primary_workstation</primary_workstation>
+  </user>
+  <user>
+    <name>Testy T. McTesterson<username>t.t.mctest</username></name>
+    <address>
+      <street>123 Testing Street</street>
+      <city>Testerville</city>
+      <state>OR</state>
+      <zip>98765</zip>
+      <phone>(541) 555-1234</phone>
+    </address>
+    <primary_workstation>192.168.0.5</primary_workstation>
+  </user>
+  <user>
+    <name>Tested T. O’Testerton<username>t.t.oteste</username></name>
+    <address>
+      <street>4567 Experimental Lane</street>
+      <city>Testingburg</city>
+      <state>PA</state>
+      <zip>15010</zip>
+      <phone>(724) 555-5678</phone>
+    </address>
+    <primary_workstation>192.168.10.7</primary_workstation>
+  </user>
+  <user>
+    <name>Assess A. Assessment<username>a.a.assess</username></name>
+    <address>
+      <street>867 Assessment Avenue</street>
+      <city>Assessor City</city>
+      <state>IA</state>
+      <zip>50005</zip>
+      <phone>(641) 555-5309</phone>
+    </address>
+    <primary_workstation>192.168.20.52</primary_workstation>
+  </user>
+</users>
